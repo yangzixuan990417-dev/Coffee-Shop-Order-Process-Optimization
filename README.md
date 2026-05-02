@@ -32,7 +32,3 @@ I analyzed the current ("As-Is") coffee shop order and inventory management proc
 - Create To-Be flowchart showing system integration.
 - Build Power BI dashboard using sample sales data to support decision-making.
 - Add exception handling (payment failure, order cancellation).
-
----
-
-**Project created for Information Systems portfolio | Victoria University of Wellington**
