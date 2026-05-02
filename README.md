@@ -1,10 +1,10 @@
 # Coffee Shop Order Process Optimization
 
 ## 项目介绍
-这是一个信息系统（IS）课程项目。我分析了咖啡店点单流程的问题，并提出了优化方案。
+这是一个信息系统（IS）项目。我分析了咖啡店点单流程的问题，并提出了优化方案。
 
 ## As-Is 当前流程
-<image-card alt="As-Is Flowchart" src="As-Is-Coffee-Order-Business-Proces...png" ></image-card>
+<image-card alt="As-Is Flowchart" src="As-Is-Coffee-Order-Business-Process-Flow.png" ></image-card>
 
 ## 发现的问题
 - 手动点单容易出错
