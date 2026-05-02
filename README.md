@@ -4,7 +4,7 @@
 这是一个信息系统（IS）课程项目。我分析了咖啡店点单流程的问题，并提出了优化方案。
 
 ## As-Is 当前流程
-![As-Is Flowchart](As-Is-flowchart.png)
+![As-Is Flowchart](As-Is Coffee Order Business Process Flow.png)
 
 ## 发现的问题
 - 手动点单容易出错
