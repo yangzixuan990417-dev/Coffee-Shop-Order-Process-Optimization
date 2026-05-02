@@ -1,36 +1,38 @@
 # Coffee Shop Order Process Optimization
 
 ## Project Overview
-This is a personal Information Systems (IS) project. I analyzed the current coffee shop order process, identified key inefficiencies, and proposed optimization solutions using business process modeling.
+This is a personal Information Systems (IS) project completed as part of my studies at Victoria University of Wellington.  
+I analyzed the current ("As-Is") coffee shop order and inventory management process, identified inefficiencies, and proposed improvements using business process modeling.
 
-## As-Is: Current Process
-![As-Is Flowchart](As-Is-Flow.png)
+## As-Is: Current Process Flow
+![As-Is Coffee Order Business Process Flow](As-Is-Flow.png)
 
 **Key Issues Identified:**
-- Manual order taking is prone to errors
-- Inventory is not updated in real-time, leading to frequent stockouts
-- Long waiting times during peak hours
+- Inventory checks occur too late in the process (after order entry), leading to stockouts and poor customer experience.
+- Manual order taking and confirmation increase the risk of errors.
+- Reorder process is heavily manual and depends on manager approval, creating bottlenecks.
+- Limited handling for out-of-stock situations and payment failures.
 
-## To-Be: Proposed Improvements
-- Introduce a POS (Point of Sale) system with real-time inventory tracking
-- Enable mobile/app ordering to reduce manual steps
-- Automatic reorder alerts when stock is low
-
-This optimization can significantly reduce waiting time and improve operational efficiency.
+## To-Be: Proposed Improvements (Planned)
+- Introduce POS system with real-time inventory checking **before order confirmation**.
+- Enable mobile/app ordering to reduce waiting time.
+- Automatic low-stock alerts and reorder requests to minimize manual approval.
+- Better customer notification (e.g., order ready alert) and alternative recommendations for out-of-stock items.
 
 ## Tools Used
-- Draw.io (diagrams.net) for process flowcharts
-- Planned: Power BI for sales data visualization and dashboards
+- Draw.io (diagrams.net) – for creating professional swimlane flowcharts
+- Planned next step: Power BI for sales data visualization and dashboard
 
 ## Learning Outcomes
-- Understood how to map and analyze business processes
-- Learned to identify bottlenecks and propose IT-driven solutions
-- Gained hands-on experience in creating professional documentation for IS projects
+- Developed skills in business process analysis and modeling.
+- Learned to identify bottlenecks in real-world operations and propose IT-based solutions.
+- Gained experience documenting processes for stakeholders.
 
 ## Future Enhancements
-- Add Power BI dashboard for sales analytics
-- Develop To-Be flowchart with system integration details
+- Create To-Be flowchart showing system integration.
+- Build Power BI dashboard using sample sales data to support decision-making.
+- Add exception handling (payment failure, order cancellation).
 
 ---
 
-**Project created as part of Information Systems studies at Victoria University of Wellington.**
+**Project created for Information Systems portfolio | Victoria University of Wellington**
