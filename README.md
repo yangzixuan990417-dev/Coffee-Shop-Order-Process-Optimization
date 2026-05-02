@@ -4,7 +4,7 @@
 This is a personal Information Systems (IS) project. I analyzed the current coffee shop order process, identified key inefficiencies, and proposed optimization solutions using business process modeling.
 
 ## As-Is: Current Process
-![As-Is Flowchart](As-Is-Flowchart.png)
+![As-Is Flowchart](As-Is-Flow.png)
 
 **Key Issues Identified:**
 - Manual order taking is prone to errors
