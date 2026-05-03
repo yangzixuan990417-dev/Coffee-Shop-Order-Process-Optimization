@@ -13,11 +13,14 @@ I analyzed the current ("As-Is") coffee shop order and inventory management proc
 - Reorder process is heavily manual and depends on manager approval, creating bottlenecks.
 - Limited handling for out-of-stock situations and payment failures.
 
-## To-Be: Proposed Improvements (Planned)
-- Introduce POS system with real-time inventory checking **before order confirmation**.
-- Enable mobile/app ordering to reduce waiting time.
-- Automatic low-stock alerts and reorder requests to minimize manual approval.
-- Better customer notification (e.g., order ready alert) and alternative recommendations for out-of-stock items.
+## To-Be: Proposed Improved Process
+![To-Be Coffee Order Business Process Flow](To-Be-Flow.png)
+
+**Key Improvements:**
+- Real-time inventory check before order confirmation to prevent stockouts.
+- Automatic low-stock alerts and reorder requests.
+- Customer receives ready notification via app.
+- Reduced manual steps and manager approval.
 
 ## Tools Used
 - Draw.io (diagrams.net) – for creating professional swimlane flowcharts
