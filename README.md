@@ -1,9 +1,5 @@
 # Coffee Shop Order Process Optimization
 
-This project is an Information Systems portfolio case study that redesigns a coffee shop’s order and inventory workflow.
-
-It combines business process modelling, As-Is and To-Be process analysis, KPI impact evaluation, and a Power BI dashboard to demonstrate how information systems can improve operational efficiency, inventory visibility, and decision-making.
-
 ## Project Overview
 This project demonstrates how business process modelling and dashboard analytics can be combined to improve a small coffee shop’s order and inventory workflow. The project includes an As-Is process analysis, a redesigned To-Be process, process comparison, KPI impact analysis, and a Power BI dashboard for operational decision support.
 
