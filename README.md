@@ -1,8 +1,7 @@
 # Coffee Shop Order Process Optimization
 
 ## Project Overview
-This is a personal Information Systems (IS) project completed as part of my studies at Victoria University of Wellington.  
-I analyzed the current ("As-Is") coffee shop order and inventory management process, identified inefficiencies, and proposed improvements using business process modeling.
+This project demonstrates how business process modelling and dashboard analytics can be combined to improve a small coffee shop’s order and inventory workflow. The project includes an As-Is process analysis, a redesigned To-Be process, process comparison, KPI impact analysis, and a Power BI dashboard for operational decision support.
 
 ## As-Is: Current Process Flow
 ![As-Is Coffee Order Business Process Flow](As-Is-Flow.png)
@@ -50,8 +49,11 @@ The dashboard includes:
 ![Power BI Dashboard](dashboard-screenshot.png)
 
 ## Tools Used
-- Draw.io (diagrams.net) – for creating professional swimlane flowcharts
-- Planned next step: Power BI for sales data visualization and dashboard
+
+- Draw.io (diagrams.net) – for creating professional swimlane flowcharts.
+- Power BI – for building an interactive dashboard to visualise order volume, sales performance, product demand, and inventory monitoring needs.
+- GitHub – for documenting the project and presenting it as a portfolio case study.
+- Markdown – for writing structured project documentation.
 
 ## Learning Outcomes
 - Developed skills in business process analysis and modeling.
@@ -60,7 +62,7 @@ The dashboard includes:
 
 ## Future Enhancements
 
-- Develop a small sample dataset to simulate customer orders, stock levels, and reorder events.
-- Build a Power BI dashboard to visualize order volume, stock usage, low-stock alerts, and reorder trends.
+- Extend the Power BI dashboard by adding simulated inventory levels, low-stock alerts, and reorder trend analysis.
 - Add additional exception handling scenarios, such as payment failure, customer order cancellation, and supplier delay.
 - Create a simple data model showing how POS, inventory, and reorder data could be connected.
+- Develop a more detailed supplier replenishment process, including purchase order approval and supplier delivery tracking.
