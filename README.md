@@ -66,3 +66,9 @@ The dashboard includes:
 - Add additional exception handling scenarios, such as payment failure, customer order cancellation, and supplier delay.
 - Create a simple data model showing how POS, inventory, and reorder data could be connected.
 - Develop a more detailed supplier replenishment process, including purchase order approval and supplier delivery tracking.
+
+## Data Source
+
+The dashboard was created using a publicly available coffee shop sales dataset from Kaggle for educational and portfolio purposes.
+
+See: [Data Source](data-source.md)
