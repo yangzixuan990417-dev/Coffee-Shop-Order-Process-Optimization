@@ -22,6 +22,12 @@ This section compares the original As-Is process with the improved To-Be process
 
 See the full comparison here: [Process Comparison](process-comparison.md)
 
+## Business Impact and KPI Analysis
+
+This section explains the expected business impact of the redesigned To-Be process and identifies KPIs that could be used to evaluate the improvement.
+
+See the full analysis here: [Business Impact and KPI Analysis](business-impact.md)
+
 **Key Improvements:**
 - Real-time inventory check before order confirmation to prevent stockouts.
 - Automatic low-stock alerts and reorder requests.
