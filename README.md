@@ -38,6 +38,8 @@ See the full comparison here: [Process Comparison](process-comparison.md)
 - Gained experience documenting processes for stakeholders.
 
 ## Future Enhancements
-- Create To-Be flowchart showing system integration.
-- Build Power BI dashboard using sample sales data to support decision-making.
-- Add exception handling (payment failure, order cancellation).
+
+- Develop a small sample dataset to simulate customer orders, stock levels, and reorder events.
+- Build a Power BI dashboard to visualize order volume, stock usage, low-stock alerts, and reorder trends.
+- Add additional exception handling scenarios, such as payment failure, customer order cancellation, and supplier delay.
+- Create a simple data model showing how POS, inventory, and reorder data could be connected.
