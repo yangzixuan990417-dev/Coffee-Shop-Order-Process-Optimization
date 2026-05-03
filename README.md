@@ -34,6 +34,21 @@ See the full analysis here: [Business Impact and KPI Analysis](business-impact.m
 - Customer receives ready notification via app.
 - Reduced manual steps and manager approval.
 
+## Power BI Dashboard
+
+A Power BI dashboard was created to support the redesigned To-Be process by visualising order volume, sales performance, product demand, and potential inventory pressure.
+
+The dashboard is interactive in Power BI and includes store-location filtering, daily order trend analysis, product category sales comparison, and high-demand product monitoring.
+
+The dashboard includes:
+- Total orders and total sales
+- Sales by product category
+- Daily order trends
+- High-demand products requiring stock monitoring
+- Store location filtering
+
+![Power BI Dashboard](dashboard-screenshot.png)
+
 ## Tools Used
 - Draw.io (diagrams.net) – for creating professional swimlane flowcharts
 - Planned next step: Power BI for sales data visualization and dashboard
