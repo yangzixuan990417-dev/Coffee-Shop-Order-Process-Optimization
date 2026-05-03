@@ -46,6 +46,7 @@ The dashboard includes:
 - High-demand products requiring stock monitoring
 - Store location filtering
 
+For a detailed explanation of the dashboard components and how they support the redesigned process, see [Dashboard Notes](dashboard/dashboard-notes.md).
 ![Power BI Dashboard](dashboard-screenshot.png)
 
 ## Tools Used
