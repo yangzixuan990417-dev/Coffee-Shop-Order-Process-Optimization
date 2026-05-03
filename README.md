@@ -16,6 +16,12 @@ I analyzed the current ("As-Is") coffee shop order and inventory management proc
 ## To-Be: Proposed Improved Process
 ![To-Be Coffee Order Business Process Flow](To-Be-Flow.png)
 
+## Process Comparison
+
+This section compares the original As-Is process with the improved To-Be process to demonstrate how the redesigned workflow improves efficiency, accuracy, and inventory visibility.
+
+See the full comparison here: [Process Comparison](process-comparison.md)
+
 **Key Improvements:**
 - Real-time inventory check before order confirmation to prevent stockouts.
 - Automatic low-stock alerts and reorder requests.
